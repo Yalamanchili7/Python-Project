@@ -1,0 +1,9 @@
+1. https://www.kaggle.com/jpayne/852k-used-car-listings
+2. N. Monburinon, P. Chertchom, T. Kaewkiriya, S. Rungpheung, S. Buya and P. Boonpou, "Prediction of prices for used car by using different models," 2018 5th International Conference on Business and Industrial 
+3. Research (ICBIR), Bangkok, 2018, pp. 115-119. 3.https://scikit-learn.org/stable/modules/classes.html: Scikit-learn: Machine Learning in Python,
+Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
+4. https://github.com/topics/car-price-prediction
+5. DATASET: https://www.kaggle.com/nehalbirla/vehicle-dataset-from- cardekho?select=car+data.csv
+6. Sameerchand Pudaruth, “Predicting the Price of Used Cars using Machine Learning Techniques” ;(IJICT 2014).
+7. Ning sun, Hongxi Bai, Yuxia Geng, Huizhu Shi, “Price Evaluation Model in Second Hand Car
+System Based on BP Neural Network Theory”; (Hohai University Changzhou, China).
